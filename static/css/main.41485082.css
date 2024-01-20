@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0}body{background-color:#112531;color:#fff;display:flex;font-family:Roboto,sans-serif;font-size:14px;justify-content:center}.card{cursor:pointer;transform-origin:center right;transform-style:preserve-3d}.card,.card.is-flipped{transition:all .5s cubic-bezier(.175,.885,.32,1.275)}.card.is-flipped{transform:translateX(-100%) rotateY(-180deg)}
+/*# sourceMappingURL=main.41485082.css.map*/

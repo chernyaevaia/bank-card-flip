@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bank-card-flip/static/css/main.41485082.css",
+    "main.js": "/bank-card-flip/static/js/main.f91caec3.js",
+    "static/media/mastercard_logo.svg": "/bank-card-flip/static/media/mastercard_logo.541b704dd69153ebe7826a3d3a44f93b.svg",
+    "static/media/chip.svg": "/bank-card-flip/static/media/chip.9439cef447e5a4161af6a638e8038793.svg",
+    "index.html": "/bank-card-flip/index.html",
+    "static/media/back_logo.svg": "/bank-card-flip/static/media/back_logo.802f40b8e313f61cccfdbede1a9d745a.svg",
+    "main.41485082.css.map": "/bank-card-flip/static/css/main.41485082.css.map",
+    "main.f91caec3.js.map": "/bank-card-flip/static/js/main.f91caec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41485082.css",
+    "static/js/main.f91caec3.js"
+  ]
+}
